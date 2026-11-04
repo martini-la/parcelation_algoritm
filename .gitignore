@@ -1,0 +1,27 @@
+meshes/
+venv_tesis/
+original_tractograms/
+intento_3/
+visualization_test/
+DriveManager/
+DriveManager/client_secrets.json/
+DriveManager/credentials_module.json/
+DriveManager/settings.yaml/
+
+# Added during cleanup (Nov 2026)
+__pycache__/
+*.pyc
+*.o
+*.so
+.DS_Store
+._*
+# compiled binaries of the C++ intersection tool
+interx
+interx_antiguo
+# subject-derived data (not redistributable)
+*.parcelsdata
+*.bundles
+*.bundlesdata
+*.intersectiondata
+*.npy
+set_tractografia/
